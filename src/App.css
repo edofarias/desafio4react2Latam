@@ -1,0 +1,36 @@
+.pizza-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.pizza-card img {
+  max-width: 100%;
+}
+
+.counter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background: #c75757;
+  color: #fff;
+}
+.navbar h1 {
+  display: center;
+  justify-content: center; 
+}
+
+.cart-button {
+  padding: 10px;
+  background: #fff;
+  color: #333;
+  cursor: pointer;
+}
